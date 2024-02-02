@@ -1,0 +1,31 @@
+@charset "UTF-8";
+html, body, header, nav, div, ol, ul, li, dl, dt, dd, heading, img, p, h1, h2, h3, h4, h5, h6, main, aside, article, section, footer, pre, form, fieldset, input, blockquote, textarea, table, th, td, embed, object  {
+margin: 0px;
+padding: 0px;
+}
+ul{
+	text-align: left;
+	list-style: none;
+	font-size: 1em;
+}
+body{
+	padding: 15%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	background-color: white;
+}
+div{
+	margin: 5%;
+}
+h2{
+	margin-top: 2%;
+}
+img{
+	width: 25%;
+	height: auto;
+	
+}
+.listinlist{
+	margin-left: 5%;
+}
+	
